@@ -390,7 +390,7 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 
 以下是 ISAC（Integrated Sensing and Communications）领域值得关注的代表性学者，并附上他们的 Google Scholar 页面，方便进一步追踪他们的最新研究成果：
 
-- **Fan Liu**, SEU
+- **Fan Liu**, SEU  
   https://scholar.google.com/citations?user=g8b1G3AAAAAJ
 - **Yuanhao Cui**, SEU  
   https://scholar.google.com/citations?user=gd8OsJcAAAAJ
