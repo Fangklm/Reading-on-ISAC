@@ -65,6 +65,8 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 <tr><td colspan="2"><a href="#6-optimizations">6. Optimizations</a></td></tr>
 <tr>
     <td>&emsp;<a href="#61-energy-efficient">6.1 Energy Efficient</a></td>
+    <td>&emsp;<a href="#62-trajectory-optimization">6.2 Trajectory Optimization</a></td>
+
 </tr>
 
 
@@ -385,6 +387,13 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 ### [6.1 Energy Efficient]
 
 1. **Y. Zeng, J. Xu, and R. Zhang, “Energy minimization for wireless communication with rotary-wing UAV**,” IEEE Trans. Wireless Commun., vol. 18, no. 4, pp. 2329–2345, Apr. 2019. (https://ieeexplore.ieee.org/document/8663615)
+
+### [6.2 Trajectory Optimization]
+
+1. X. Jing, F. Liu, C. Masouros, and Y. Zeng, **‘ISAC From the Sky: UAV Trajectory Design for Joint Communication and Target Localization’**, IEEE Trans. Wireless Commun., vol. 23, no. 10, pp. 12857–12872, Oct. 2024, doi: 10.1109/TWC.2024.3396571.
+
+
+
 
 ## Scholars to Follow  
 
