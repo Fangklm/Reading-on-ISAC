@@ -61,6 +61,13 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
     <td>&ensp;<a href="#58-demonstrations">5.8 Demonstrations</a></td>
 </tr>
 
+<!-- 6 Optimizations -->
+<tr><td colspan="2"><a href="#6-optimizations">6. Optimizations</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#61-energy-efficient">6.1 Energy Efficient</a></td>
+</tr>
+
+
 <!-- Scholars -->
 <tr><td colspan="2"><a href="#scholars-to-follow">Scholars to Follow</a>
 
@@ -374,7 +381,10 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 
    *Q. Zhang, H. Sun, Z. Wei, Z. Feng*
 
+## [6. Optimizations]
+### [6.1 Energy Efficient]
 
+1. **Y. Zeng, J. Xu, and R. Zhang, “Energy minimization for wireless communication with rotary-wing UAV**,” IEEE Trans. Wireless Commun., vol. 18, no. 4, pp. 2329–2345, Apr. 2019. (https://ieeexplore.ieee.org/document/8663615)
 
 ## Scholars to Follow  
 
