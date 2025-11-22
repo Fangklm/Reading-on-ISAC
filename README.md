@@ -390,27 +390,20 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 
 以下是 ISAC（Integrated Sensing and Communications）领域值得关注的代表性学者，并附上他们的 Google Scholar 页面，方便进一步追踪他们的最新研究成果：
 
-- **Fan Liu**, SEU / HKUST (GZ)  
+- **Fan Liu**, SEU
   https://scholar.google.com/citations?user=g8b1G3AAAAAJ
-
 - **Yuanhao Cui**, SEU  
   https://scholar.google.com/citations?user=gd8OsJcAAAAJ
-
-- **Christos Masouros**, University College London  
-  https://scholar.google.com/citations?user=fvTdHCwAAAAJ
-
-- **Yonina C. Eldar**, Weizmann Institute of Science  
-  https://scholar.google.com/citations?user=R2qPpkoAAAAJ
-
-- **Henk Wymeersch**, Chalmers University of Technology  
-  https://scholar.google.com/citations?user=9u8O5R8AAAAJ
-
-- **K. V. (Venkatesh) Mishra**, Stevens Institute of Technology  
-  https://scholar.google.com/citations?user=WkIKqGIAAAAJ
-
-- **Beibei Wang**, University of Hawaii  
-  https://scholar.google.com/citations?user=FPlmONQAAAAJ
-
-- **Alyssa A. Applegate**, MIT Lincoln Laboratory  
-  https://scholar.google.com/citations?user=k7D1OpoAAAAJ
+- **Yong Zeng**, SEU  
+  https://scholar.google.com/citations?user=ENldmwIAAAAJ&hl=en
+- **Rui Zhang**,NUS    
+  https://scholar.google.com/citations?user=yoJqPIkAAAAJ&hl=en
+- **Qingqing Wu**,SJTU    
+  https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en
+- **Dingzhu Wen**, SHTU    
+  https://scholar.google.com/citations?user=f-WJ1iAAAAAJ&hl=zh-CN
+- **Guangxu Zhu**,SRI    
+  https://scholar.google.com/citations?user=MZrr57QAAAAJ&hl=zh-CN
+- **Abbas Jamalipour**,USYD    
+  https://scholar.google.com/citations?user=8RYYICoAAAAJ&hl=en
 
