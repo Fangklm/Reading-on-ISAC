@@ -24,8 +24,8 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 <!-- 3 Optimizations -->
 <tr><td colspan="2"><a href="#3-optimizations">3. Optimizations</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#61-energy-efficient">3.1 Energy Efficient</a></td>
-    <td>&emsp;<a href="#62-trajectory-optimization">3.2 Trajectory Optimization</a></td>
+    <td>&emsp;<a href="#31-energy-efficient">3.1 Energy Efficient</a></td>
+    <td>&emsp;<a href="#32-trajectory-optimization">3.2 Trajectory Optimization</a></td>
 
 </tr>
 
@@ -119,10 +119,15 @@ ons via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.i
 ### [3.2 Trajectory Optimization]
 
 1. X. Jing, F. Liu, C. Masouros, and Y. Zeng, **‘ISAC From the Sky: UAV Trajectory Design for Joint Communication and Target Localization’**, IEEE Trans. Wireless Commun., vol. 23, no. 10, pp. 12857–12872, Oct. 2024, doi: 10.1109/TWC.2024.3396571.
-2. R. Zhang, Y. Zhang, R. Tang, H. Zhao, Q. Xiao, and C. Wang, ‘A Joint UAV Trajectory, User Association, and Beamforming Design Strategy for Multi-UAV-Assisted ISAC Systems’, IEEE Internet Things J., vol. 11, no. 18, pp. 29360–29374, Sept. 2024, doi: 10.1109/JIOT.2024.3430390.
+
    
-
-
+2. R. Zhang, Y. Zhang, R. Tang, H. Zhao, Q. Xiao, and C. Wang, ‘A Joint UAV Trajectory, User Association, and Beamforming Design Strategy for Multi-UAV-Assisted ISAC Systems’, IEEE Internet Things J., vol. 11, no. 18, pp. 29360–29374, Sept. 2024, doi: 10.1109/JIOT.2024.3430390.
+> [!NOTE]
+> 将原始三层非凸问题 (P1) 分解为：
+> * **Beamforming 子问题** (convexified by FP)
+> * **User Association 子问题** (matching theory)
+> * **UAV Trajectory 子问题** (SQP-based) 并进行交替迭代求解。
+>* 新型 Beamforming 设计（Quadratic Transform + Fractional Programming），利用定义的性能增量 $F_{m,k}$ 构建双边偏好。
 
 
 ## Scholars to Follow  
