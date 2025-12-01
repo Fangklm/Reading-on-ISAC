@@ -391,6 +391,8 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 ### [6.2 Trajectory Optimization]
 
 1. X. Jing, F. Liu, C. Masouros, and Y. Zeng, **‘ISAC From the Sky: UAV Trajectory Design for Joint Communication and Target Localization’**, IEEE Trans. Wireless Commun., vol. 23, no. 10, pp. 12857–12872, Oct. 2024, doi: 10.1109/TWC.2024.3396571.
+2. R. Zhang, Y. Zhang, R. Tang, H. Zhao, Q. Xiao, and C. Wang, ‘A Joint UAV Trajectory, User Association, and Beamforming Design Strategy for Multi-UAV-Assisted ISAC Systems’, IEEE Internet Things J., vol. 11, no. 18, pp. 29360–29374, Sept. 2024, doi: 10.1109/JIOT.2024.3430390.
+   
 
 
 
