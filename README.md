@@ -47,7 +47,17 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 
 1. **Integrating Sensing and Communications for Ubiquitous IoT: Applications, Trends and Challenges.** IEEE Network, 2021. [Magazine](https://ieeexplore.ieee.org/document/9606831/). 
 
-    *Y. Cui, F. Liu, X. Jing, J. Mu* 
+    *Y. Cui, F. Liu, X. Jing, J. Mu*
+
+1. Z. Wei et al., **"Integrated Sensing and Communication Signals Toward 5G-A and 6G: A Survey,"** in IEEE Internet of Things Journal, vol. 10, no. 13, pp. 11068-11092, 1 July1, 2023, doi: 10.1109/JIOT.2023.3235618.
+> [!NOTE]
+>* ISAC系统波形设计
+
+1. Zhou, Wenxing, et al. **"Integrated sensing and communication waveform design: A survey."** IEEE Open Journal of the Communications Society 3 (2022): 1930-1949.
+> [!NOTE]
+>* ISAC系统波形设计
+
+   
 
 
 
