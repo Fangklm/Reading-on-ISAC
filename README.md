@@ -21,13 +21,20 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 <tr><td colspan="2"><a href="#2-fundamental-theory-and-performance-analysis">2. Fundamental Theory and Performance Analysis</a></td></tr>
 
 
-<!-- 3 Optimizations -->
-<tr><td colspan="2"><a href="#3-optimizations">3. Optimizations</a></td></tr>
+<!-- 3 Optimization Methods-->
+<tr><td colspan="2"><a href="#3-optimization-methods">3. Optimization Methods</a></td></tr>
 <tr>
     <td>&emsp;<a href="#31-energy-efficient">3.1 Energy Efficient</a></td>
     <td>&emsp;<a href="#32-trajectory-optimization">3.2 Trajectory Optimization</a></td>
 
 </tr>
+
+<!-- 4 Learning Methods -->
+<tr><td colspan="2"><a href="#4-learning-methods">4. Learning Methods</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#41-energy-efficient">4.1 Energy Efficient</a></td>
+</tr>
+
 
 
 <!-- Scholars -->
@@ -121,7 +128,7 @@ ons via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.i
 
 
 
-## [3. Optimizations]
+## [3. Optimization Methods]
 ### [3.1 Energy Efficient]
 
 1. **Y. Zeng, J. Xu, and R. Zhang, “Energy minimization for wireless communication with rotary-wing UAV**,” IEEE Trans. Wireless Commun., vol. 18, no. 4, pp. 2329–2345, Apr. 2019. (https://ieeexplore.ieee.org/document/8663615)
@@ -139,6 +146,8 @@ ons via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.i
 > * **UAV Trajectory 子问题** (SQP-based) 并进行交替迭代求解。
 >* 新型 Beamforming 设计（Quadratic Transform + Fractional Programming），利用定义的性能增量 $F_{m,k}$ 构建双边偏好。
 
+## [4. Learning Methods]
+### [4.1 Energy Efficient]
 
 ## Scholars to Follow  
 
