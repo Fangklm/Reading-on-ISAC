@@ -146,6 +146,13 @@ ons via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.i
 > * **UAV Trajectory 子问题** (SQP-based) 并进行交替迭代求解。
 >* 新型 Beamforming 设计（Quadratic Transform + Fractional Programming），利用定义的性能增量 $F_{m,k}$ 构建双边偏好。
 
+
+3. Y. Pan et al., ‘Cooperative Trajectory Planning and Resource Allocation for UAV-Enabled Integrated Sensing and Communication Systems’, IEEE Trans. Veh. Technol., vol. 73, no. 5, pp. 6502–6516, May 2024, doi: 10.1109/TVT.2023.3337106.
+> [!NOTE]
+> 多无人机 每个无人机的吞吐量约束下最小化位置估计的均方误差（MSE） + 在有限的功率和频谱资源下联合优化协作轨迹和资源分配。 通信 QoS 约束下，提升 UAV 对目标的 定位精度 Trajectory and Resource allocation optimization
+> 
+
+
 ## [4. Learning Methods]
 ### [4.1 Energy Efficient]
 
